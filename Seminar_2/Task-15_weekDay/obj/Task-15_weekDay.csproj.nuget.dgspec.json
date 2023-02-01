@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/Task-15_weekDay.csproj": {}
+  },
+  "projects": {
+    "/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/Task-15_weekDay.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/Task-15_weekDay.csproj",
+        "projectName": "Task-15_weekDay",
+        "projectPath": "/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/Task-15_weekDay.csproj",
+        "packagesPath": "/home/faso/.nuget/packages/",
+        "outputPath": "/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/faso/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

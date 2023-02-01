@@ -1,0 +1,15 @@
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.csproj.AssemblyReference.cache
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.GeneratedMSBuildEditorConfig.editorconfig
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.AssemblyInfoInputs.cache
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.AssemblyInfo.cs
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.csproj.CoreCompileInputs.cache
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/bin/Debug/net7.0/Task-15_weekDay
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/bin/Debug/net7.0/Task-15_weekDay.deps.json
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/bin/Debug/net7.0/Task-15_weekDay.runtimeconfig.json
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/bin/Debug/net7.0/Task-15_weekDay.dll
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/bin/Debug/net7.0/Task-15_weekDay.pdb
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.dll
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/refint/Task-15_weekDay.dll
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.pdb
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/Task-15_weekDay.genruntimeconfig.cache
+/home/faso/Documents/Projects/C#/VSCode/GeekBrains/Seminar/Seminar_2/Task-15_weekDay/obj/Debug/net7.0/ref/Task-15_weekDay.dll
